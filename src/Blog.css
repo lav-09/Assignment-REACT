@@ -1,0 +1,22 @@
+.blog {
+    background: #fff;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .blog h2 {
+    color: #444;
+  }
+  
+  .blog article {
+    margin: 1rem 0;
+  }
+  
+  .blog article h3 {
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .blog article p {
+    color: #666;
+  }

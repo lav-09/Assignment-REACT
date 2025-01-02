@@ -1,0 +1,13 @@
+.team {
+  background: #f4f4f4;
+  padding: 2rem;
+  text-align: center;
+}
+
+.team h2 {
+  color: #333;
+}
+
+.team p {
+  color: #666;
+}
